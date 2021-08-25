@@ -26,9 +26,11 @@
         }
         elseif($grade == 'B')
         {
+            echo '<h2>YOU DID WELL!</h2>'; 
         }
         else
         {
+            echo '<h2>YOU HAVE FAILED..</h2>';
         }
     ?>
 <?php
