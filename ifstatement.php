@@ -26,7 +26,6 @@
         }
         elseif($grade == 'B')
         {
-            echo '<h2>YOR DID WELL!</h2>'; 
         }
         else
         {
