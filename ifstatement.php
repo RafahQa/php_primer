@@ -29,7 +29,6 @@
         }
         else
         {
-            echo '<h2>YOR HAVE FAILED..</h2>';
         }
     ?>
 <?php
